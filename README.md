@@ -16,10 +16,23 @@
     - Make a reservation (F&B owners need to enable this function so users can make a reservation/can be disabled too)
 
 # Open Source Point-of-Sale (OpenPOS) system
+## Credits
+- https://github.com/opensourcepos/opensourcepos
+- https://github.com/kimdj/OpenPOS
+## Stack
+Frontend
+- React/Angular TS
+
+Backend
+- Any (FastAPI, fastify, etc)
+
+Database
+- MongoDB
 ## Users
 - Retailers
 ## Functions
 - Multi location manager
 - Self order/checkout kios mode
 - Web socket cash register
+- Customer manager
 
